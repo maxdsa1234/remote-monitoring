@@ -1,0 +1,32 @@
+# Environment files
+.env
+.env.local
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Amplify
+**/amplify/#current-cloud-backend
+**/amplify/.config/local-*
+**/aws-exports.js
+**/amplifyconfiguration.json
+**/awsconfiguration.json
+
+# Amplify sensitive config
+**/team-provider-info.json
+**/project-config.json
+**/cli.json
+**/.graphqlconfig.yml
+**/backend-config.json
+**/cli-inputs.json
+**/*-cloudformation-template.json
+**/amplify-meta.json
+
+**/amplify/backend/
+**/amplify/#current-cloud-backend

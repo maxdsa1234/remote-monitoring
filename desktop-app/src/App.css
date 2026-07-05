@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #f4f7f9; /* Light Medical Grey/Blue */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chart-card {
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+h3 {
+  color: #2c3e50; /* Professional Navy */
+  margin-top: 0;
+}

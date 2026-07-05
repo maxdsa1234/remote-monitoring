@@ -1,0 +1,6 @@
+data/
+*.dat
+*.hea 
+*.atr
+*.xpd
+.ipynb_checkpoints/
